@@ -1,0 +1,10 @@
+
+*
+#everything but
+!.gitignore
+!*.java
+!*.jar
+
+# even if they are in subdirectories
+!*/
+
