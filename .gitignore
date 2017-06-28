@@ -4,6 +4,7 @@
 !.gitignore
 !*.java
 !*.jar
+!*.md
 
 # even if they are in subdirectories
 !*/
